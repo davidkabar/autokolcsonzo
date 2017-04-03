@@ -1,12 +1,12 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-	<title>Tutorial</title>
+	<title>Kabar Autókölcsönző</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 	<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=latin,latin-ext" rel="stylesheet" type="text/css">
 	<link rel="stylesheet" href="bootstrap.css" type="text/css">
-	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script> 
+	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
 	<script type="text/javascript">
 	$(document).ready(function() {
 		$("ul#menu div").click(function() {
@@ -38,11 +38,11 @@
 			<li>
 					<div>menu 1</div>
 				<ul>
-					
+
 						<li><a href="">valami</a></li>
 						<li><a href="">valami</a></li>
 						<li><a href="">valami</a></li>
-						
+
 				</ul>
 			</li>
 			<li>
@@ -83,7 +83,7 @@
 				<img src="3.jpg" class="img-thumbnail">
 				<h2>box 2</h2>
 				<?php include "./Login.php"; ?>
-				
+
 			</div>
 		</div>
 		<div class="col-sm-6 col-md-3 col-sm-push-6 col-md-push-3">
@@ -100,7 +100,7 @@
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin hendrerit pellentesque velit, a porta turpis porta sed. Praesent varius, turpis eget volutpat eleifend, libero lacus viverra magna, in dapibus justo ex bibendum ante.</p>
 			</div>
 		</div>
-		
+
 	</div>
 </div>
 
